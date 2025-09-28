@@ -85,7 +85,7 @@
 
 ### 最便宜VPN（一）：Ivacy VPN - 1.19美金/月，3年套餐节省88%（但无法在中国使用）
 
-![IvacyVPN Banner：便宜的VPN，中国好用的便宜VPN推荐](https://raw.githubusercontent.com/chinavpns/cheapvpn.github.io/main/image/IvacyVPN-CheapVPN.jpg)
+![IvacyVPN Banner：便宜的VPN，中国好用的便宜VPN推荐](https://vpnjs.github.io/vpnassets/img/IvacyVPN-CheapVPN.jpg)
 
 **核心结论**：Ivacy VPN 以**极低价格**出名——三年套餐**月均约 $1.19**，标称可**节省高达 88%**。功能上具备 **256 位加密、无日志政策、多平台支持** 等刚需项，适合**预算有限、在中国境外**需要基础隐私与解锁体验的用户；但**在中国的速度与稳定性表现欠佳**，不建议作为中国地区的主力 VPN。
 
@@ -138,7 +138,7 @@
 
 ### 便宜VPN（二）：<a href="https://fastpure.net/?source=github|cheapvpn" rel="nofollow">PureVPN - 2.11美金/月，2年套餐赠送3个月节省81% （在中国比较好用）</a>
 
-![PureVPN Banner：便宜的VPN，中国好用的便宜VPN推荐](https://raw.githubusercontent.com/chinavpns/cheapvpn.github.io/main/image/PureVPN-CheapVPN.jpg)
+![PureVPN Banner：便宜的VPN，中国好用的便宜VPN推荐](https://vpnjs.github.io/vpnassets/img/PureVPN-CheapVPN.jpg)
 
 **核心结论**：PureVPN 以**价格合理 + 性能稳定**在便宜 VPN 中脱颖而出。**2 年套餐月均约 $2.11**，且**额外赠送 3 个月**，标称**最高可省 81%**。在中国的使用口碑相对较好，凭借**丰富的服务器节点与较强的穿透防火墙能力**，适合希望在中国稳定访问海外内容的用户。
 
@@ -182,7 +182,7 @@
 
 ### 便宜VPN（三）：CyberGhost - 2.15美金/月，2年套餐赠送2个月节省83%（但无法在中国使用）
 
-![CyberGhost Banner：便宜的VPN，中国好用的便宜VPN推荐](https://raw.githubusercontent.com/chinavpns/cheapvpn.github.io/main/image/CyberGhost-CheapVPN.jpg)
+![CyberGhost Banner：便宜的VPN，中国好用的便宜VPN推荐](https://vpnjs.github.io/vpnassets/img/CyberGhost-CheapVPN.jpg)
 
 
 **核心结论**：CyberGhost 以**价格适中 + 功能强大**著称。**2 年套餐约 $2.15/月**，另送 **2 个月**，标称**最高可省 83%**。在全球范围的**速度、稳定性与流媒体解锁**表现优异；但**在中国不可用**（受防火墙限制）。若你主要在**中国境外使用**，它是值得考虑的**便宜好用 VPN**。
@@ -226,7 +226,7 @@
 
 ### 便宜VPN（四）：<a href="https://fastsurf-shark.com/?source=github|cheapvpn" rel="nofollow">Surfshark - 2.49美金/月，2年套餐节省81%（可以在中国使用）</a>
 
-![Surfshark Banner：便宜的VPN，中国好用的便宜VPN推荐](https://raw.githubusercontent.com/chinavpns/cheapvpn.github.io/main/image/Surfshark-CheapVPN.jpg)
+![Surfshark Banner：便宜的VPN，中国好用的便宜VPN推荐](https://vpnjs.github.io/vpnassets/img/Surfshark-CheapVPN.jpg)
 
 **核心结论**：Surfshark 以**超高性价比 + 稳定翻墙**著称。**2 年套餐约 $2.49/月**，标称**最高可省 81%**。在中国的**连接稳定性与速度**表现突出，适合需要**访问被封锁网站 + 保护在线隐私**的用户；并支持**无限设备同时连接**，非常适合个人与家庭多设备场景。
 
@@ -270,7 +270,7 @@
 
 ### 便宜VPN（五）：<a href="https://fastnord.net/?source=github|cheapvpn" rel="nofollow">NordVPN - 3.29美金/月，2年套餐赠送3个月节省72% （可以在中国使用）</a>
 
-![NordVPN Banner：便宜的VPN，中国好用的便宜VPN推荐](https://raw.githubusercontent.com/chinavpns/cheapvpn.github.io/main/image/NordVPN-CheapVPN.jpg)
+![NordVPN Banner：便宜的VPN，中国好用的便宜VPN推荐](https://vpnjs.github.io/vpnassets/img/NordVPN-CheapVPN.jpg)
 
 **核心结论**：NordVPN 以**高速稳定 + 强安全性**著称。**2 年套餐约 $3.29/月**，**额外赠送 3 个月**，标称**最高可省 72%**。在中国的**翻墙稳定性与连接速度**表现优异，适合需要**隐私保护 + 流媒体解锁**的长期用户。
 
@@ -316,7 +316,7 @@
 
 ### 便宜VPN（六）：<a href="https://fastexp.net/?source=github|cheapvpn" rel="nofollow">ExpressVPN - 3.49美金/月，买2年送4个月省73%（在中国非常好用）</a>
 
-![ExpressVPN Banner：便宜的VPN，中国好用的便宜VPN推荐](https://raw.githubusercontent.com/chinavpns/cheapvpn.github.io/main/image/ExpressVPN-CheapVPN.jpg)
+![ExpressVPN Banner：便宜的VPN，中国好用的便宜VPN推荐](https://vpnjs.github.io/vpnassets/img/ExpressVPN-CheapVPN.jpg)
 
 
 **核心结论**：ExpressVPN 以**卓越速度 + 稳定翻墙 + 强安全**著称，是许多中国用户的**首选 VPN**。**2 年套餐约 $3.49/月**，并**额外赠送 4 个月**；虽然价格较部分便宜 VPN 略高，但凭借**更稳的连接、广泛的全球节点与完善的隐私保护**，整体**物有所值**。
