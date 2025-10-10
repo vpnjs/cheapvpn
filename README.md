@@ -132,7 +132,7 @@
 #### 一句话总结
 **Ivacy VPN = 价格“卷王”+功能齐全**，非常适合**预算优先且在中国境外**的用户；但若核心诉求是**在中国长期、稳定、高速翻墙**，更建议选择**在中国口碑更稳**的替代方案。
 
-**<p align="center"><a href="https://fastexp.net/?source=github|cheapvpn" rel="nofollow">注意：Ivacy VPN不适合在中国大陆使用，请优选ExpressVPN</a></p>**
+**<a href="https://fastexp.net/?source=github|cheapvpn" rel="nofollow">注意：Ivacy VPN不适合在中国大陆使用，请优选ExpressVPN</a>**
 
 ****
 
@@ -176,7 +176,7 @@
 
 ---
 
-**<p align="center"><a href="https://fastpure.net/?source=github|cheapvpn" rel="nofollow">立即获取PureVPN，每月2.11美金</a></p>**
+**<a href="https://fastpure.net/?source=github|cheapvpn" rel="nofollow">立即获取PureVPN，每月2.11美金</a>**
 
 ****
 
@@ -220,7 +220,7 @@
 - **试用策略**：利用 **45 天退款期**密集测试**速度、解锁、稳定性**；不合适及时退款，**零风险试错**。
 
 ---
-**<p align="center"><a href="https://fastexp.net/?source=github|cheapvpn" rel="nofollow">注意：CyberGhost无法在中国使用，请优选ExpressVPN</a></p>**
+**<a href="https://fastexp.net/?source=github|cheapvpn" rel="nofollow">注意：CyberGhost无法在中国使用，请优选ExpressVPN</a>**
 
 ****
 
@@ -264,7 +264,7 @@
 
 ---
 
-**<p align="center"><a href="https://fastsurf-shark.com/?source=github|cheapvpn" rel="nofollow">立即获取Surfshark</a></p>**
+**<a href="https://fastsurf-shark.com/?source=github|cheapvpn" rel="nofollow">立即获取Surfshark</a>**
 
 ****
 
@@ -310,7 +310,7 @@
 
 ---
 
-**<p align="center"><a href="https://fastnord.net/?source=github|cheapvpn" rel="nofollow">立即获取NordVPN</a></p>**
+**<a href="https://fastnord.net/?source=github|cheapvpn" rel="nofollow">立即获取NordVPN</a>**
 
 ****
 
@@ -354,7 +354,7 @@
 - **试用策略**：下单后在**30 天退款期**内，密集测试**速度、稳定性、解锁成功率**；不合适可**零风险退款**。
 
 ---
-**<p align="center"><a href="https://fastexp.net/?source=github|cheapvpn" rel="nofollow">立即获取ExpressVPN（30天免费）</a></p>**
+**<a href="https://fastexp.net/?source=github|cheapvpn" rel="nofollow">立即获取ExpressVPN（30天免费）</a>**
 
 ## 如何挑选最好用的便宜VPN？
 
